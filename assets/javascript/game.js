@@ -135,7 +135,7 @@ var check = function(){
    });
 
    document.getElementById('violet').addEventListener('click', function(){
-        score = score + amountViolent;
+        score = score + amountViolet;
         // score += amountBrown;
         document.getElementById('score').textContent = "Score :" + score;
         check();

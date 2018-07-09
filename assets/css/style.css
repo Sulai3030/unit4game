@@ -1,26 +1,26 @@
 body{
-    background-image: url("./assets/images/zabby-allen-bkgd.jpg");
+    background-image: url("../images/zabby-allen-bkgd.jpg");
 }
-#box1{
+#brown{
     height: 200px;
     max-width:800px;
     background-color:powderblue;
     align-content: center;
     
 }
-#box2{
+#green{
     height: 300px;
     max-width: 500px;
     background-color: aquamarine;
     
 }
-#box3{
+#red{
     height:300px;
     max-width:500px;
     background-color: blueviolet;
     
 }
-#box4{
+#violet{
     height:300px;
     max-width:500px;
     background-color: rgb(226, 43, 195);
@@ -34,7 +34,7 @@ h1{
     
 }
 h3{
-    color:green;
+    color:#fff;
 }
 
 .container{
